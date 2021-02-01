@@ -1,2 +1,2 @@
 # JumbledWordGame
-A python program for jumbled word game 
+A python program for jumbled word game. This is nothing but there are two players in the game. each have been given 0 points initially and there turn is alternated. The computer would randomly pick a word from the list of words it has, suffle it and then post the question. based on whose turn it is, the player is supposed to guess the word and he has to give his answer. if the answer is exactly matching with the word, his point will be increased by 1. the next thing is he will be notify whether he wants to continue playing or not. even if one player says he wants to quit the game come to an end.
